@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! My name is Celina :) Excited to be here!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm a senior in CAS studying Computer Science with minors in Mathematics and Global Public Health.
 
