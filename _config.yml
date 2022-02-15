@@ -13,7 +13,7 @@ description: CSCI-UA 480 Student, Spring 2022; senior at NYU studying Computer S
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/celina.jpeg 
+avatar: /cel-hu-weekly/images/celina.jpeg 
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: Avatar
 
