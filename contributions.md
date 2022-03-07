@@ -25,3 +25,4 @@ Replace the first row with your own contribution.
 | March 6   | [link to my contribution](https://www.openstreetmap.org/changeset/118181961)   | OpenStreet Map feature    |   I mapped out a few houses in my neighborhood.    |
 | March 6   | [link to my contribution](https://www.openstreetmap.org/changeset/118182127)   | OpenStreet Map feature    |   I mapped out a house.    |
 | March 6   | [link to my contribution](https://www.openstreetmap.org/changeset/118182301)   | OpenStreet Map feature    |   I changed an incorrectly labeled building to a house.   |
+|  March 6  | [link to my contribution](https://www.openstreetmap.org/changeset/118182651#map=14/31.2056/121.5232)   | OpenStreet Map feature    |   I deleted a false road and added an apartment building.   |
