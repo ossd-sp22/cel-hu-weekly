@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| March 6   | [link to my contribution](https://www.openstreetmap.org/changeset/118181961)   | OpenStreet Map feature    |   I mapped out a few houses in my neighborhood.    |
 |     |     |     |      |
 |     |     |     |      |
